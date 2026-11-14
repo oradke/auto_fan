@@ -5,8 +5,8 @@ set -e
 # 52Pi EP-0152 Fan Controller Installer
 
 INSTALL_DIR="/usr/local/bin"
-SCRIPT_NAME="52pi-fan.py"
-SERVICE_NAME="52pi-fan.service"
+SCRIPT_NAME="auto_fan.py"
+SERVICE_NAME="auto_fan.service"
 
 echo "======================================"
 echo "  52Pi EP-0152 Fan Controller"
